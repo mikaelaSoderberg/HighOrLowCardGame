@@ -1,0 +1,12 @@
+Spelet är en form av högt eller lågt, där spelaren ska gissa om nästa
+kort är högre eller lägre än det som visas för tillfället. Efter varje
+omgång får spelaren välja om den ska fortsätta med ett nytt kort eller
+återvända till menyn. Så länge som spelet fortlöper räknas poängen och
+antalet omgångar, men dessa nollställs varje gång spelaren återvänder
+till menyn.
+
+Efter 51 omgångar har spelaren gått igenom hela kortleken och får då valet
+att blanda en ny omgång eller återvända till menyn. Poängen och antalet
+omgångar sparas om spelaren väljer att blanda leken på nytt. 
+
+Om två kort är av samma valör kommer det att avgöras på färgen. 
